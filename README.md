@@ -37,7 +37,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
   ![Screenshot](./assets/images/zip-deploy.JPG)
   <br>
   ![Screenshot](./assets/images/language-course-objects.JPG)
-  <br>
+  
 
 ## License
   ![badge](https://img.shields.io/badge/license-MIT-important)
