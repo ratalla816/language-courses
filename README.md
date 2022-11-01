@@ -30,11 +30,11 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 ## Screenshots
-  ![Screenshot](./assets/images/start-to-finish.jpg)
+  ![Screenshot](./assets/images/start-to-finish.JPG)
   <br>
   ![Screenshot](./assets/images/trigger-deployment.JPG)
   <br>
-  ![Screenshot](./assets/images/zip-deploy.jpg)
+  ![Screenshot](./assets/images/zip-deploy.JPG)
   <br>
   ![Screenshot](./assets/images/language-course-objects.JPG)
   <br>
