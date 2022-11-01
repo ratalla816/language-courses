@@ -1,3 +1,15 @@
+![badge](https://img.shields.io/github/languages/top/ratalla816/language-courses)
+  <br> 
+  ![badge](https://img.shields.io/github/languages/count/ratalla816/language-courses)
+  <br>
+  ![badge](https://img.shields.io/github/issues/ratalla816/language-courses)
+  <br>
+  ![badge](https://img.shields.io/github/issues-closed/ratalla816/language-courses)
+  <br>
+  ![badge](https://img.shields.io/github/last-commit/ratalla816/language-courses)
+  <br>
+  ![badge](https://img.shields.io/badge/license-MIT-important)
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
@@ -16,3 +28,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+## License
+  ![badge](https://img.shields.io/badge/license-MIT-important)
+  <br>
+  Permission to use this application is granted under the MIT license. <https://opensource.org/licenses/MIT>
