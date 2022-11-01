@@ -34,6 +34,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
   <br>
   ![Screenshot](./assets/images/trigger-deployment.jpg)
   <br>
+  ![Screenshot](./assets/images/zip-deploy.jpg)
+  <br>
   <br>
   ![Screenshot](./assets/images/language-course-objects.jpg)
   <br>
