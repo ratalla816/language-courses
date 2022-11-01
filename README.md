@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/github/languages/top/ratalla816/language-courses)
-  <br> 
+  <br>
   ![badge](https://img.shields.io/github/languages/count/ratalla816/language-courses)
   <br>
   ![badge](https://img.shields.io/github/issues/ratalla816/language-courses)
@@ -29,17 +29,21 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
-## Screenshots
+## Screenshot
+
   ![Screenshot](./assets/images/start-to-finish.JPG)
   <br>
+  
   ![Screenshot](./assets/images/trigger-deployment.JPG)
   <br>
+
   ![Screenshot](./assets/images/zip-deploy.JPG)
   <br>
+
   ![Screenshot](./assets/images/language-course-objects.JPG)
   
-
 ## License
+
   ![badge](https://img.shields.io/badge/license-MIT-important)
   <br>
   Permission to use this application is granted under the MIT license. <https://opensource.org/licenses/MIT>
